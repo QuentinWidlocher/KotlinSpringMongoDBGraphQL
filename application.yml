@@ -1,0 +1,7 @@
+graphql:
+    packages:
+        - "com.widlocher.kotlintest01"
+
+spring:
+    data.mongodb:
+        database: "kotlin-test-01"
